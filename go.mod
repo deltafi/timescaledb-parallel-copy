@@ -1,4 +1,4 @@
-module github.com/timescale/timescaledb-parallel-copy
+module github.com/deltafi/timescaledb-parallel-copy
 
 go 1.25.4
 
