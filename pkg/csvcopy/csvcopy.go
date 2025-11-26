@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/timescale/timescaledb-parallel-copy/pkg/buffer"
+	"github.com/deltafi/timescaledb-parallel-copy/pkg/buffer"
 
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgconn"

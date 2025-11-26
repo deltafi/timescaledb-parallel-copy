@@ -7,7 +7,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/timescale/timescaledb-parallel-copy/pkg/buffer"
+	"github.com/deltafi/timescaledb-parallel-copy/pkg/buffer"
 )
 
 // scanOptions contains all the configurable knobs for Scan.

@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/timescale/timescaledb-parallel-copy/pkg/csvcopy"
-	"github.com/timescale/timescaledb-parallel-copy/pkg/errorhandlers"
+	"github.com/deltafi/timescaledb-parallel-copy/pkg/csvcopy"
+	"github.com/deltafi/timescaledb-parallel-copy/pkg/errorhandlers"
 )
 
 const (

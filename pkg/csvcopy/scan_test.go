@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/timescale/timescaledb-parallel-copy/pkg/buffer"
+	"github.com/deltafi/timescaledb-parallel-copy/pkg/buffer"
 
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/exp/rand"

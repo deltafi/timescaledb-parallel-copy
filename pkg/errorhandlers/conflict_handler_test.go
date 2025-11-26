@@ -13,7 +13,7 @@ import (
 	"github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/modules/postgres"
 	"github.com/testcontainers/testcontainers-go/wait"
-	"github.com/timescale/timescaledb-parallel-copy/pkg/csvcopy"
+	"github.com/deltafi/timescaledb-parallel-copy/pkg/csvcopy"
 )
 
 func TestBatchConflictHandler_WithUniqueConstraint(t *testing.T) {
