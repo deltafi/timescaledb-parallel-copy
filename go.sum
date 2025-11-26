@@ -122,6 +122,8 @@ github.com/testcontainers/testcontainers-go v0.35.0 h1:uADsZpTKFAtp8SLK+hMwSaa+X
 github.com/testcontainers/testcontainers-go v0.35.0/go.mod h1:oEVBj5zrfJTrgjwONs1SsRbnBtH9OKl+IGl3UMcr2B4=
 github.com/testcontainers/testcontainers-go/modules/postgres v0.35.0 h1:eEGx9kYzZb2cNhRbBrNOCL/YPOM7+RMJiy3bB+ie0/I=
 github.com/testcontainers/testcontainers-go/modules/postgres v0.35.0/go.mod h1:hfH71Mia/WWLBgMD2YctYcMlfsbnT0hflweL1dy8Q4s=
+github.com/timescale/timescaledb-parallel-copy v0.11.1 h1:3SEOeQvdM2K8Isk6sg9vy5xBsVuzA5ZbDu/iWQvj5rI=
+github.com/timescale/timescaledb-parallel-copy v0.11.1/go.mod h1:+8A2+DRpQ6Rrs+58AMJFcKN0QvUNK7egXZ8sEGMF1fo=
 github.com/tklauser/go-sysconf v0.3.14 h1:g5vzr9iPFFz24v2KZXs/pvpvh8/V9Fw6vQK5ZZb78yU=
 github.com/tklauser/go-sysconf v0.3.14/go.mod h1:1ym4lWMLUOhuBOPGtRcJm7tEGX4SCYNEEEtghGG/8uY=
 github.com/tklauser/numcpus v0.9.0 h1:lmyCHtANi8aRUgkckBgoDk1nHCux3n2cgkJLXdQGPDo=
